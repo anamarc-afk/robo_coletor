@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage   -std=gnu++14 -o CMakeFiles/astar_move.dir/src/main.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/main.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/main.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage   -std=gnu++14 -o CMakeFiles/astar_move.dir/src/navigateRobot.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/navigateRobot.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/navigateRobot.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage   -std=gnu++14 -o CMakeFiles/trash.dir/src/randomizer.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/randomizer.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/randomizer.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage   -std=gnu++14 -o CMakeFiles/trash.dir/src/spawnCollect.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/spawnCollect.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/spawnCollect.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage   -std=gnu++14 -o CMakeFiles/trash.dir/src/collector.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/collector.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/collector.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testPlanner.dir/test/main.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/test/main.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/test/main.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testPlanner.dir/test/testPathPlanner.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/test/testPathPlanner.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/test/testPathPlanner.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testPlanner.dir/src/gridSquare.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/gridSquare.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/gridSquare.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testPlanner.dir/src/pathPlanner.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/pathPlanner.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/pathPlanner.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testcollect.dir/test/testRandomizer.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/test/testRandomizer.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/test/testRandomizer.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testcollect.dir/test/testSpawnCollect.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/test/testSpawnCollect.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/test/testSpawnCollect.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testcollect.dir/src/randomizer.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/randomizer.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/randomizer.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testcollect.dir/src/spawnCollect.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/spawnCollect.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/spawnCollect.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testNavigator.dir/test/testNavigateRobot.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/test/testNavigateRobot.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/test/testNavigateRobot.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testNavigator.dir/src/navigateRobot.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/navigateRobot.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/navigateRobot.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testGrid.dir/test/testGridSquare.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/test/testGridSquare.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/test/testGridSquare.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -g -O0 --coverage   -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/testGrid.dir/src/gridSquare.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/gridSquare.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/gridSquare.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -DpathPlanner_EXPORTS -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage -fPIC   -std=gnu++14 -o CMakeFiles/pathPlanner.dir/src/gridSquare.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/gridSquare.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/gridSquare.cpp"
+},
+{
+  "directory": "/home/ana/ecobot2_ws/build/ecobot",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ecobot\\\" -DpathPlanner_EXPORTS -I/home/ana/ecobot2_ws/src/ecobot/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -g -O0 --coverage -fPIC   -std=gnu++14 -o CMakeFiles/pathPlanner.dir/src/pathPlanner.cpp.o -c /home/ana/ecobot2_ws/src/ecobot/src/pathPlanner.cpp",
+  "file": "/home/ana/ecobot2_ws/src/ecobot/src/pathPlanner.cpp"
+}
+]

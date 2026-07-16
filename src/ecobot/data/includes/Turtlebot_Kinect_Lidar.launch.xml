@@ -1,0 +1,9 @@
+<!-- NOTE: This file was used with ROS Kinetic's turtlebot_description.
+     In ROS Noetic, the robot spawning is done directly from the main
+     Mapping.launch using turtlebot3_description. This file is kept for
+     reference only and is no longer included by Mapping.launch. -->
+<launch>
+  <arg name="robot_name"/>
+  <arg name="init_pose"/>
+  <!-- Spawning is now handled in Mapping.launch using turtlebot3_description -->
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/ana/ecobot2_ws/devel
+
+Name: ecobot
+Description: Description of ecobot
+Version: 3.0.0
+Cflags: -I/home/ana/ecobot2_ws/src/ecobot/include
+Libs: -L${prefix}/lib 
+Requires: nav_core roscpp std_msgs tf2_ros

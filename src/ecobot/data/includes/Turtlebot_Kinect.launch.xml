@@ -1,0 +1,10 @@
+<!-- NOTE: This file referenced the legacy turtlebot stack (ROS Kinetic).
+     In ROS Noetic, robot spawning is handled directly in Collecting.launch
+     using turtlebot3_description. This file is kept for reference only. -->
+<launch>
+  <arg name="base"/>
+  <arg name="stacks"/>
+  <arg name="3d_sensor"/>
+  <arg name="init_pose"/>
+  <!-- Spawning is now handled in Collecting.launch using turtlebot3_description -->
+</launch>

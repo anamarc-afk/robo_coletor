@@ -1,0 +1,2 @@
+ecobot:rrt_exploration
+-DCATKIN_DEVEL_PREFIX=/home/ana/ecobot2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ana/ecobot2_ws/install -G Unix Makefiles
