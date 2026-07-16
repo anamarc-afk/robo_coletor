@@ -1,4 +1,4 @@
-# eco-bot: Guia de Migração para ROS Noetic
+
 
 ## Dependências (Ubuntu 20.04 + ROS Noetic)
 
